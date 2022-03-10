@@ -19,7 +19,7 @@ public class March09 {
 			System.out.println("Enter AC type: ");
 		}
 		System.out.println("Number of Inverter AC is: "+Inverter);
-		System.out.println("Number of Inverter AC is: "+Non_Inverter);
+		System.out.println("Number of Non-Inverter AC is: "+Non_Inverter);
 	}
 
 }
