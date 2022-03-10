@@ -12,8 +12,9 @@ public class March09 {
 		Scanner s = new Scanner(System.in);
 		
 		System.out.println("Imput AC Numbers: ");
+		
 		int AC_Number = s.nextInt();
-		for(int i=0; i<AC_Number; i++) {
+		for(int i=0; i<=AC_Number; i++) {
 			
 			String AC_Type=s.nextLine();
 			System.out.println("Enter AC type: ");
