@@ -6,6 +6,9 @@ public class March09 {
 	
 	public static void main(String[] args) {
 		
+		int Inverter=6;
+		int Non_Inverter=4;
+		
 		Scanner s = new Scanner(System.in);
 		
 		System.out.println("Imput AC Numbers: ");
@@ -15,8 +18,8 @@ public class March09 {
 			String AC_Type=s.nextLine();
 			System.out.println("Enter AC type: ");
 		}
-		System.out.println("Number of Inverter AC is 6");
-		System.out.println("Number of Inverter AC is 4");
+		System.out.println("Number of Inverter AC is: "+Inverter);
+		System.out.println("Number of Inverter AC is: "+Non_Inverter);
 	}
 
 }
