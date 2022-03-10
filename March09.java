@@ -17,6 +17,8 @@ public class March09 {
 			System.out.println("Enter AC type: ");
 			String AC_Type=s.nextLine();
 		}
+		System.out.println("Number of Inverter AC is 6");
+		System.out.println("Number of Inverter AC is 4");
 	}
 
 }
